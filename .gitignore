@@ -1,0 +1,17 @@
+# Compilados
+*.class
+out/
+bin/
+target/
+build/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs y sistema
+*.log
+.DS_Store
